@@ -4,7 +4,7 @@ Welcome to Reminder Pro Project made by Rajat Makwana
 
 ## Live Demo of this Project
 
-https://reminderpro.herokuapp.com/
+https://reminderpro26.herokuapp.com/
 
 ## Tech Stack
 
